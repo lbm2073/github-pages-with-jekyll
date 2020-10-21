@@ -1,6 +1,4 @@
-----
-layout:post
+---
 title:"Using the bot"
------
-
-Try again post.
+date:2020-10-21
+----
